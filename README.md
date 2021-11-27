@@ -8,7 +8,7 @@ Cada ação será implementada no sistema de cadastro de registros de um banco S
 
 Então de forma rápida e simples nós vamos desenvolver essa aplicação.
 
-Ambiente de desenvolvimento PHP e IDE, click para baixar:
+Instale seu Ambiente de desenvolvimento PHP e IDE, clicando nos links a baixo:
 
 - [x] [XAMPP Apache + MariaDB + PHP + Perl](https://www.apachefriends.org/pt_br/index.html)
 - [x] [Sublime Tex](https://www.sublimetext.com/)
