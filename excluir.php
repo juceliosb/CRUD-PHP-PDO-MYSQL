@@ -1,8 +1,7 @@
 <?php
 include_once "conexao.php";
 
-try{
-	
+try{	
 	$id = filter_var($_GET['id'], FILTER_SANITIZE_NUMBER_INT);
 	
 	$delete = $conectar -> prepare("DELETE FROM login WHERE id = :id");
