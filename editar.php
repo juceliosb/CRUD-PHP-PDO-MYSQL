@@ -2,6 +2,7 @@
 include_once "conexao.php";
 
 try{
+	
 	$id = filter_var($_POST['id'], FILTER_SANITIZE_NUMBER_INT);
 	$nome = filter_var($_POST['nome']);
 	$login = filter_var($_POST['login']);
