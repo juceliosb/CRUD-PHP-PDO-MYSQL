@@ -12,4 +12,5 @@ $linha = $consulta -> fetch(PDO::FETCH_ASSOC);
 	Login: <input type="text" name="login" value = "<?php echo $linha['login'] ?>" id = "login"/><br>
 	<input type="hidden" name ="id" value="<?php echo $linha ['id'] ?>">
 	<input type="submit" value="Editar">
+	
 </form>
