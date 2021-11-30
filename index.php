@@ -22,7 +22,6 @@ echo $consulta-> rowCount() . " Registros Exibidos";
 }catch(PDOException $e) {
   echo $e-> getMessage();
 
-
 }
 
 ?>
