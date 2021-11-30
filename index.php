@@ -6,7 +6,9 @@ try{
   // execução de instrução sql
   $consulta = $conectar->query("SELECT * FROM login");
 
-echo "<a href = 'formCadastro.php'>Novo Cadastro</a> <br><br> Listagem de Usuarios";
+echo "<a href = 'formCadastro.php'> Novo Cadastro</a> 
+
+<br><br> Listagem de Usuarios";
 
 echo "<table border = '1'><tr><td>Nome</td> <td>Login</td><td>Acoes</td></tr>";
 
