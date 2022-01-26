@@ -1,8 +1,6 @@
 # CRUD-PHP-PDO-MYSQL
 
-Então, nós vamos criar um exemplo bem prático e fácil de desenvolver com PHP.
-
-Vamos fazer um CRUD (acrónimo do inglês Create, Read, Update and Delete) são as quatro operações básicas (criação, consulta, atualização e destruição de dados) utilizadas em bases de dados relacionais (RDBMS) fornecidas aos utilizadores do sistema.
+Esse projeto é para criação de uma base de dados de produtos fazendo um CRUD (acrónimo do inglês Create, Read, Update and Delete) são as quatro operações básicas (criação, consulta, atualização e destruição de dados) utilizadas em bases de dados relacionais (RDBMS) fornecidas aos utilizadores do sistema.
 
 Cada ação será implementada no sistema de cadastro de registros de um banco SQL.
 
